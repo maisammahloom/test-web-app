@@ -20,7 +20,7 @@ st.write("[link to tutorial>](https://www.youtube.com/watch?v=VqgUkExPvLY)")
 with st.container():
     st.write("---")
     st.header("Contact me for progress")
-    st.write("kreamykrunches@gmail.com")
+    st.write("maisam4coding@gmail.com")
     st.write("##")
 
 
